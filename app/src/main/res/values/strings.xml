@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alert Dial</string>
+    <string name="open_website">Website</string>
+    <string name="dial_number">Contact</string>
+    <string name="show_snackbar">Snackbar</string>
+    <string name="show_alert_dialog_simple">Dialog box</string>
+</resources>
